@@ -139,6 +139,7 @@ div label:hover{
 
 div label{
 	width: 100%;
+	font-style: none;
 }
 
 div p{
